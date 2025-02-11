@@ -5,8 +5,6 @@
 
 Welcome to my personal portfolio website! This is a responsive web application designed to showcase my skills, projects, and professional experiences. The portfolio serves as a central platform to highlight my expertise and provide an easy way for recruiters or collaborators to connect with me.
 
-## 🚀 Live Demo
-Check out the live website here: [My Portfolio](https://github.com/dharanisatwika-komaravolu/My-Portfolio/)
 
 ## 🛠️ Built With
 - **Frontend**: HTML, CSS, JavaScript, React.js, Three.js
