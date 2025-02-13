@@ -3,15 +3,17 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://dharanisatwika.github.io/Portfolio",
+ "homepage": "https://dharanisatwika-komaravolu.github.io/My-Portfolio",
+
   "scripts": {
     "start": "npm run dev",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+  "deploy": "gh-pages -d build"
   },
+  
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
     "@react-three/drei": "^9.56.24",
