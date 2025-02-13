@@ -3,7 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
- "homepage": "https://dharanisatwika-komaravolu.github.io/My-Portfolio",
+"homepage": "https://dharanisatwika-komaravolu.github.io/My-Portfolio",
+
 
   "scripts": {
     "start": "npm run dev",
@@ -11,7 +12,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
+"deploy": "gh-pages -d dist"
   },
   
   "dependencies": {
